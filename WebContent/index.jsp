@@ -13,7 +13,7 @@
     <div class="login-wrapper">
         <div class="login-card">
             <h2>Portal Login</h2>
-            <p style="color: #718096; margin-bottom: 20px; font-size: 14px;">Diploma CST Attendance System</p>
+            <p style="color: #718096; margin-bottom: 20px; font-size: 14px;">Student Attendance Management System</p>
             
             <% 
                 String error = request.getParameter("error");
