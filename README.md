@@ -20,6 +20,23 @@ A full-stack, web-based **Student Attendance Management System** developed using
 
 ---
 
+## 📸 Project Screenshots
+
+### 1. Admin Login Portal
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 155906" src="https://github.com/user-attachments/assets/58c3f0b4-80bc-458a-871a-7b9f6d0e6cad" />
+
+### 2. Interactive Admin Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 155918" src="https://github.com/user-attachments/assets/64a9e280-c62d-48a6-9747-6daffe4bc11a" />
+
+### 3. Student Registration Module
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 155943" src="https://github.com/user-attachments/assets/0a106678-322e-4590-a49a-46cb0f8408e4" />
+
+### 4. Daily Attendance Entry Sheet
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 155954" src="https://github.com/user-attachments/assets/ed5aadf4-a86d-41b3-b378-cf99d31a6752" />
+
+### 5. Attendance Reports & PDF Export
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 160057" src="https://github.com/user-attachments/assets/f8da2fd3-ac4f-448b-90eb-5987b684e3f1" />
+
 ## 📂 Project Structure
 ```text
 Student_Attendance_System/
